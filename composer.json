@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "hw3\\": "src/"
+            "ohw3\\": "src/"
         }
     }
 }
