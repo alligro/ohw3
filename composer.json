@@ -1,5 +1,6 @@
 {
     "name": "alligro/ohw3",
+    "version": "1.0.0",
     "description": "Otus HomeWork3 package",
     "type": "library",
     "license": "MIT",
